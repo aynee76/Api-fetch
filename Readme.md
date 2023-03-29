@@ -5,7 +5,7 @@
 Clone or download this repository and run with a local server of open index.html with your favorite browser
 
 ## Preview
-
+https://vermillion-mochi-74ae8e.netlify.app/
 
 ## Prequisite
 - Your browser version must be recent for a better experience
